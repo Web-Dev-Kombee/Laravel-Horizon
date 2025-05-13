@@ -1,4 +1,4 @@
-# 🛒 **QuickCart Order Processor** 🚀
+# 🛒 **QuickCart Order Processor (laravel Horizon)** 🚀
 
 Welcome to the **QuickCart Order Processor** project! This demo showcases **Laravel Horizon**'s capabilities in managing queue job chains and background processing. The system simulates a simple order processing workflow, which includes:
 
