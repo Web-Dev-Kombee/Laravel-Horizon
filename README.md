@@ -91,8 +91,8 @@ Follow these steps to set up the project locally:
 ### 🧑‍💻 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/quickcart-order-processor.git
-cd quickcart-order-processor
+git clone https://github.com/Web-Dev-Kombee/Laravel-Horizon.git
+cd Laravel-Horizon
 ```
 ### 📦 Install Dependencies
 
